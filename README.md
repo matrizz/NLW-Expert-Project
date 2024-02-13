@@ -16,7 +16,7 @@ This is a Node.js project that utilizes Docker to manage development and product
 
 ```bash
 git clone https://github.com/matrizz/NLW-Expert-Project.git
-cd your-project
+cd NLW-Expert-Project
 ```
 
 2. Install project dependencies:
