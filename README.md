@@ -52,3 +52,7 @@ npm start
 ## Usage
 
 The server will be running at http://localhost:3333.
+
+# TODO
+
+- [ ] Frontend
